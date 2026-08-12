@@ -1,157 +1,126 @@
-# Hi, I'm Vara Prasad Vemula 👋
+# 👨‍💻 Vara Prasad Vemula — Software Engineer
 
-### Software Engineer | Full-Stack Developer | React.js | TypeScript | Node.js
+### React.js | TypeScript | Node.js | NestJS | MySQL | Full-Stack Development
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vara-prasad-vemula">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:vemulavaraprasad709@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/vara-prasad-789">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vara-prasad-vemula)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:vemulavaraprasad709@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/vara-prasad-789)
+
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Software Engineer and Full-Stack Developer** focused on building scalable, user-friendly web applications and business automation solutions.
+I'm a **Software Engineer and Full-Stack Developer** with professional experience building scalable and user-focused web applications.
 
-I currently work with **React.js, TypeScript, Redux, Node.js, NestJS, Express.js, MySQL, REST APIs, and AWS**, developing features from concept through production.
+My primary expertise includes **React.js, TypeScript, JavaScript, Redux, Node.js, NestJS, Express.js, MySQL, REST APIs and AWS**.
 
-At my current organization, I've worked on a **work management platform for professional accounting firms**, contributing to automation, integrations, data processing, notifications, browser extensions, and workflow management.
+I currently work on **ATOM**, a work management platform for professional accounting firms, where I contribute to frontend development, backend APIs, workflow automation, integrations, data processing and production features.
 
-🔎 **Currently looking for new opportunities** as a:
+I enjoy turning business requirements into reliable, maintainable and user-friendly software.
+
+### 🔎 Currently Open to Opportunities
+
+I'm actively looking for opportunities as a:
 
 * Software Engineer
-* Frontend Developer
 * React.js Developer
+* Frontend Developer
 * Full-Stack Developer
 * React + Node.js Developer
 
-📍 **Preferred locations:** Hyderabad, Bangalore, Chennai, Pune, Mumbai & Remote
-
-💼 **Open to:** Full-time opportunities | Remote | Hybrid | On-site
+**Preferred:** Hyderabad | Bangalore | Chennai | Pune | Mumbai | Remote
 
 ---
 
-## 💻 Tech Stack
+# 💼 Professional Experience
 
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-</p>
-
-### Backend
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
-</p>
-
-### Database & Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-</p>
-
----
-
-## 🏢 Professional Experience
-
-### Software Engineer — Vider Business Solutions
+## Software Engineer — Vider Business Solutions
 
 **March 2023 – Present**
 
-Working on **ATOM**, a work management web application designed for professional accounting firms.
+### Product: [ATOM — Work Management Platform](https://atom.vider.in/)
+
+> A work management web application built for professional accounting firms.
+
+### Technologies
+
+`React.js` `TypeScript` `JavaScript` `Redux` `Material UI`
+`Node.js` `NestJS` `Express.js` `TypeORM` `MySQL`
+`Kafka` `REST APIs` `AWS` `Git`
 
 ### Key Contributions
 
-* Developed scalable frontend features using **React.js, TypeScript, Redux and Material UI**
-* Built backend services and REST APIs using **Node.js, NestJS and TypeORM**
-* Worked with **MySQL** for application data management
-* Developed **Excel bulk-import functionality** for processing large datasets
-* Built a **Chrome Extension** for streamlined client-portal access and automation
-* Implemented **notification and email workflows**
-* Worked with **Kafka, Event Subscribers, Listeners and Schedulers** for event-driven workflows
-* Developed a **GSTR Tracker** integrating external APIs for GST return tracking
-* Implemented **recurring workflow automation** using events and schedulers
-* Developed **Activity Logs** to track important user actions
-* Implemented comprehensive **field validation and error handling**
-* Fixed production issues and improved application stability
-* Contributed to features from **development → testing → deployment → production**
+* Developed scalable frontend features using **React.js, TypeScript, Redux and Material UI**.
+* Developed backend APIs and business logic using **Node.js, NestJS and TypeORM**.
+* Worked with **MySQL** for application data management.
+* Built **Excel bulk-data import functionality** for client onboarding and large dataset processing.
+* Developed a **Chrome Extension** to streamline access to frequently used client portals.
+* Implemented **notification preferences** supporting email and application notifications.
+* Worked with **Kafka, Event Subscribers, Listeners and Schedulers** for event-driven workflows.
+* Developed recurring workflow functionality using **event-driven automation and schedulers**.
+* Implemented a **GSTR Tracker** using external APIs to automate GST return tracking.
+* Built **Activity Log functionality** for tracking important user actions.
+* Implemented field-level validation and improved application reliability.
+* Fixed production issues and improved existing application functionality.
+* Contributed to features throughout the development lifecycle from **implementation to production deployment**.
 
 ---
 
-## 🚀 Featured Projects
+# 🧩 Major Features I've Worked On
 
-### 🧾 ATOM — Work Management Platform
+### 📊 Excel Data Import
 
-A business management and workflow platform designed for professional accounting firms.
+Built functionality for importing large datasets from Excel files and processing them through backend services.
 
-**Key areas:**
+### 🌐 Chrome Extension
 
-* Task & workflow management
-* Client management
-* Billing workflows
-* Recurring tasks
-* Notifications
-* Activity tracking
-* GST return tracking
-* Excel data import
-* Email integrations
-* Client portal automation
+Developed browser-based automation to simplify access to client portals and improve operational efficiency.
 
-**Tech:** React.js • TypeScript • Redux • Node.js • NestJS • MySQL • TypeORM • Kafka • AWS
+### 📧 Notification & Email System
 
----
+Implemented notification workflows and email integrations for application events and user preferences.
 
-### 🌐 Client PortalEase — Chrome Extension
+### 🔄 Recurring Workflows
 
-A Chrome extension designed to simplify access to frequently used client portals.
+Developed recurring task and workflow automation using event emitters and schedulers.
 
-**Highlights:**
+### 📋 Activity Logs
 
-* Automated portal access
-* Credential management
-* Improved workflow efficiency
-* Support for multiple client portals
-* Integrated with business workflows
+Implemented tracking of important user actions across areas such as tasks, clients and billing.
 
-**Tech:** JavaScript • Chrome Extension APIs • Web Technologies
+### 🧾 GSTR Tracker
+
+Integrated external APIs to retrieve and process GST return information based on year, month and GST type.
+
+### 🔐 Validation & Reliability
+
+Implemented field-level validation, error handling and production bug fixes to improve application stability.
 
 ---
 
-### 📊 COVID-19 Dashboard
+# 🚀 Personal Projects
 
-A responsive COVID-19 dashboard providing state-wise information with interactive visualizations.
+## 📊 COVID-19 Dashboard
 
-**Tech:** React.js • JavaScript • REST APIs • Recharts • CSS
+A responsive dashboard displaying COVID-19 information with state-wise data and interactive visualizations.
+
+**Tech:** `React.js` `JavaScript` `REST APIs` `Recharts` `CSS`
+
+🔗 **[Live Demo](https://covid19dshboard.ccbp.tech/)**
 
 ---
 
-### 🛒 Nxt Trendz — E-Commerce Application
+## 🛒 Nxt Trends — E-Commerce Application
 
 An e-commerce application inspired by modern shopping platforms.
 
-**Features:**
+### Features
 
 * User authentication
 * Product listing
@@ -160,98 +129,140 @@ An e-commerce application inspired by modern shopping platforms.
 * Sorting
 * Responsive UI
 
-**Tech:** React.js • JavaScript • REST APIs • CSS
+**Tech:** `React.js` `JavaScript` `REST APIs` `CSS`
+
+🔗 **[Live Demo](https://nxttrendsshoopy.ccbp.tech/)**
 
 ---
 
-## 📈 What I'm Currently Learning
+## ✅ Todo Application
 
-I'm continuously improving my full-stack and engineering skills.
+A task management application for creating, managing and organizing daily tasks.
 
-```text
-React.js          ████████████████████
-TypeScript        ███████████████████
-Node.js           ██████████████████
-NestJS            █████████████████
-REST APIs         ██████████████████
-MySQL             ████████████████
-AWS               ██████████████
-Python            ████████████
-AI / GenAI        ███████████
-```
+**Tech:** `HTML` `CSS` `JavaScript`
 
-Currently exploring:
-
-* Advanced React.js patterns
-* TypeScript
-* Node.js & NestJS
-* AWS
-* CI/CD & deployment practices
-* Python
-* AI-assisted development
-* Generative AI & AI agents
+🔗 **[Live Demo](https://todolistsite.ccbp.tech/)**
 
 ---
 
-## 🧠 Engineering Interests
+## 🏏 IPL Dashboard
 
-I enjoy working on problems involving:
+An interactive IPL dashboard for exploring teams and match information.
 
-* ⚡ Performance optimization
-* 🧩 Reusable frontend architecture
-* 🔌 API integrations
-* 🔄 Workflow automation
-* 📊 Data processing
-* 🔐 Authentication & authorization
-* ☁️ Cloud deployment
-* 🤖 AI-powered developer workflows
-* 📈 Scalable business applications
+**Tech:** `React.js` `JavaScript` `REST APIs` `CSS`
+
+🔗 **[Live Demo](https://ipldashboard709.ccbp.tech/)**
 
 ---
 
-## 🎯 Career Goals
+## 🐙 GitHub Repositories Explorer
 
-I'm looking to join a product-focused engineering team where I can:
+A web application for searching and exploring GitHub repositories.
 
-* Build production-grade applications
-* Work on challenging technical problems
-* Improve my system design and backend skills
-* Learn from experienced engineers
-* Contribute to products used by real customers
-* Grow into a strong **Full-Stack Engineer**
+**Tech:** `React.js` `JavaScript` `REST APIs`
+
+🔗 **[Live Demo](https://githubreposnxtw.ccbp.tech/)**
 
 ---
 
-## 📫 Let's Connect
+## 🍽️ Food Munch
 
-I'm currently **actively exploring new software engineering opportunities**.
+A responsive food-service website focused on modern UI design and responsive layouts.
 
-If you're hiring for a **React.js, Frontend, Node.js or Full-Stack Developer** role, I'd love to connect.
+**Tech:** `HTML` `CSS` `Bootstrap`
 
-<p align="left">
-  <a href="mailto:vemulavaraprasad709@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vemulavaraprasad709%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vara-prasad-vemula">
-    <img src="https://img.shields.io/badge/LinkedIn-Vara%20Prasad%20Vemula-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+🔗 **[Live Demo](https://foodmuchrssite.ccbp.tech/)**
 
 ---
-<!---
-## ⭐ GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vara-prasad-789&show_icons=true&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vara-prasad-789&layout=compact&hide_border=true" height="170" />
-</p>
+## 🛍️ E-Commerce Website
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vara-prasad-789&hide_border=true" />
-</p>
---->
+A responsive e-commerce website demonstrating product-focused UI development.
+
+**Tech:** `HTML` `CSS` `Bootstrap` `JavaScript`
+
+🔗 **[Live Demo](https://flybuysitepage.ccbp.tech/)**
+
 ---
 
-### 💡 "Build. Learn. Improve. Repeat."
+# 🧑‍💻 Technical Skills
 
-**Thanks for visiting my profile! If you find my projects useful, consider giving them a ⭐**
+### Frontend
+
+`HTML5` `CSS3` `JavaScript` `TypeScript` `React.js` `Redux` `Material UI`
+
+### Backend
+
+`Node.js` `NestJS` `Express.js` `Python` `REST APIs`
+
+### Database
+
+`MySQL` `TypeORM`
+
+### Tools & Cloud
+
+`Git` `AWS` `Jenkins` `Gitea`
+
+### Currently Exploring
+
+`Advanced TypeScript` `AWS` `CI/CD` `Python` `Generative AI` `AI Agents`
+
+---
+
+# 🎓 Certifications
+
+### NxtWave — CCBP 4.0 Intensive
+
+Industry Ready Certification in Full-Stack Development
+
+* [Static Website](https://certificates.ccbp.in/intensive/static-website?id=NSSIZROXKX)
+* [Responsive Website](https://certificates.ccbp.in/intensive/responsive-website?id=OEEIFHPGBS)
+* [Dynamic Web Application](https://certificates.ccbp.in/intensive/dynamic-web-application?id=QOPZTZIIYO)
+* [JavaScript Essentials](https://certificates.ccbp.in/intensive/javascript-essentials?id=VEFORQZCYN)
+* [Responsive Web Design using Flexbox](https://certificates.ccbp.in/intensive/flexbox?id=UOCFBROFIT)
+* [Programming Foundations / Python](https://certificates.ccbp.in/intensive/programming-foundations?id=RMRZHAHOND)
+* [Developer Foundations](https://certificates.ccbp.in/intensive/developer-foundations?id=KOLMIISCZK)
+* [Databases](https://certificates.ccbp.in/intensive/introduction-to-databases?id=PCAKMJUESL)
+* [Node.js](https://certificates.ccbp.in/intensive/node-js?id=OXMQVFBXHB)
+* [React.js](https://certificates.ccbp.in/intensive/react-js?id=TNPJBUZCMV)
+
+---
+
+# 🌐 Tutorials & Learning Resources
+
+I've also created several single-page tutorials while learning and practicing web technologies.
+
+| Technology   | Tutorial                                                                       |
+| ------------ | ------------------------------------------------------------------------------ |
+| HTML         | [View Tutorial](https://vara-prasad-789.github.io/HTML-Developement-Tutorial/) |
+| CSS          | [View Tutorial](https://vara-prasad-789.github.io/CSS-Development-Tutorial/)   |
+| CSS Advanced | [View Tutorial](https://vara-prasad-789.github.io/CSS-Advanced-Tutorial/)      |
+| Bootstrap    | [View Tutorial](https://vara-prasad-789.github.io/BootStrap-Tutorial/)         |
+| JavaScript   | [View Tutorial](https://vara-prasad-789.github.io/Javascript-Tutorial/)        |
+| SQL          | [View Tutorial](https://vara-prasad-789.github.io/SQL-Tutorial/)               |
+
+---
+
+# 📄 Resume
+
+📌 **[View My Resume](https://drive.google.com/file/d/1HzaTf4ShK0HWKpC8HLyWyssROdSM6FD5/view?usp=sharing)**
+
+---
+
+# 📫 Contact
+
+I'm always open to connecting with developers, recruiters, hiring managers and companies working on interesting products.
+
+**Email:** [vemulavaraprasad709@gmail.com](mailto:vemulavaraprasad709@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/vara-prasad-vemula](https://www.linkedin.com/in/vara-prasad-vemula)
+
+**GitHub:** [github.com/vara-prasad-789](https://github.com/vara-prasad-789)
+
+---
+
+## ⭐ Thanks for Visiting
+
+If you find any of my projects useful or interesting, feel free to explore the repositories and give them a ⭐.
+
+**Build → Learn → Improve → Repeat 🚀**
