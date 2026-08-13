@@ -4,7 +4,7 @@
 
 ## 🌐 Live Portfolio
 
-🚀 **[Visit My 3D Developer Portfolio →](YOUR_LIVE_PORTFOLIO_URL)**
+🚀 **[Visit My 3D Developer Portfolio →](https://varaprasad.vvaraprasad.workers.dev/)**
 
 Explore my professional experience, projects, technical skills and interactive 3D portfolio.
 
