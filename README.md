@@ -2,6 +2,12 @@
 
 ### React.js | TypeScript | Node.js | NestJS | MySQL | Full-Stack Development
 
+## 🌐 Live Portfolio
+
+🚀 **[Visit My 3D Developer Portfolio →](YOUR_LIVE_PORTFOLIO_URL)**
+
+Explore my professional experience, projects, technical skills and interactive 3D portfolio.
+
 <p align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/vara-prasad-vemula)
